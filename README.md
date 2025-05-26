@@ -10,6 +10,7 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 
 - [📘 Tutorial](#tutorial)
 - [🪂 Basic Greedy Problems](#basic-greedy-problems)
+- [🥃 Standard Greedy Problems](#standard-greedy-problems)
 - [🪙 Activity Selection & Intervals](#activity-selection--intervals)
 - [🎒 Knapsack Variants](#knapsack-variants)
 - [📦 Job Sequencing & Deadlines](#job-sequencing--deadlines)
@@ -33,6 +34,9 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
 
 ---
+
+## 🥃Standard Greedy Problems
+- [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis-string)
 
 ## 🪙 Activity Selection & Intervals
 
