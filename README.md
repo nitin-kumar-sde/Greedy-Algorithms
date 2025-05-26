@@ -9,11 +9,11 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 ## 📚 Table of Contents
 
 - [📘 Tutorial](#tutorial)
-- [🪂 Basic Greedy Problems](#basic-greedy-problems)
-- [🥃 Standard Greedy Problems](#standard-greedy-problems)
-- [🪙 Activity Selection & Intervals](#activity-selection--intervals)
+- [🤑 Basic Greedy Problems](#basic-greedy-problems)
+- [🪙 Standard Greedy Problems](#standard-greedy-problems)
+- [💰 Activity Selection & Intervals](#activity-selection-variants)
 - [🎒 Knapsack Variants](#knapsack-variants)
-- [📦 Job Sequencing & Deadlines](#job-sequencing--deadlines)
+- [📦 Job Sequencing & Deadlines](#job-sequencing-with-deadlines-variants)
 - [🏃 Huffman Encoding & Compression](#huffman-encoding--compression)
 - [🚰 Water/Resource Distribution](#water--resource-distribution)
 - [💬 Contributing](#contributing)
@@ -27,61 +27,58 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 
 ---
 
-## 🪂Basic Greedy Problems
+## 🤑Basic Greedy Problems
 - [Minimum Absolute difference](https://leetcode.com/problems/minimum-absolute-difference)
 - [Smallest Subset](https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies)
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
+- [Boats needed to save People](https://leetcode.com/problems/boats-to-save-people)
 
 ---
 
-## 🥃Standard Greedy Problems
+## 🪙Standard Greedy Problems
 - [Jump Game](https://leetcode.com/problems/jump-game)
 - [Jump Game 2](https://leetcode.com/problems/jump-game-ii)
 - [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis-string)
+- [Minimum platforms needed](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+- [Candy](https://leetcode.com/problems/candy)
 
-## 🪙 Activity Selection & Intervals
 
-### 📘 Tutorials
-- [Greedy Approach – GFG](https://www.geeksforgeeks.org/greedy-algorithms/)
+## 💰Activity Selection Variants
 
-### 🧭 Problems
-- [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)
-- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
-- [Interval Partitioning](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaystation/)
+- [Activity Selection Problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
+- [N meetings in a room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+- [Insert Interval](https://leetcode.com/problems/insert-interval)
 
 ---
 
-## 🎒 Knapsack Variants
+## 🎒Knapsack Variants
 
 - [Fractional Knapsack](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
-- [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
-- [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
-- [Gas Station](https://leetcode.com/problems/gas-station/)
 
 ---
 
-## 📦 Job Sequencing & Deadlines
+## 📦Job Sequencing with Deadlines Variants
 
 - [Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
-- [Scheduling Jobs with Deadlines](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
+- [Job Sequencing Problem 2](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
 
 ---
 
-## 🏃 Huffman Encoding & Compression
 
-- [Huffman Coding (GFG)](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
-- [Huffman Decoding (Leetcode)](https://leetcode.com/problems/optimal-account-balancing/)
-
----
-
-## 🚰 Water / Resource Distribution
+## 🚰Water / Resource Distribution
 
 - [Distribute Water to Villages](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
 - [Connect N ropes with minimum cost](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 - [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+
+---
+
+## 🏃Huffman Encoding & Compression
+
+- [Huffman Coding ](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 
 ---
 
