@@ -36,6 +36,8 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 ---
 
 ## 🥃Standard Greedy Problems
+- [Jump Game](https://leetcode.com/problems/jump-game)
+- [Jump Game 2](https://leetcode.com/problems/jump-game-ii)
 - [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis-string)
 
 ## 🪙 Activity Selection & Intervals
