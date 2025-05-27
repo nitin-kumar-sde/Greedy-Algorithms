@@ -15,9 +15,6 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 - [🎒 Knapsack Variants](#knapsack-variants)
 - [📦 Job Sequencing & Deadlines](#job-sequencing-with-deadlines-variants)
 - [🏃 Huffman Encoding & Compression](#huffman-encoding--compression)
-- [🚰 Water/Resource Distribution](#water--resource-distribution)
-- [💬 Contributing](#contributing)
-- [🔗 References](#references)
 
 ---
 
@@ -30,6 +27,7 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 ## 🤑Basic Greedy Problems
 - [Minimum Absolute difference](https://leetcode.com/problems/minimum-absolute-difference)
 - [Smallest Subset](https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements)
+- [Connect N ropes with minimum cost](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies)
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change)
 - [Boats needed to save People](https://leetcode.com/problems/boats-to-save-people)
@@ -57,6 +55,7 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 ## 🎒Knapsack Variants
 
 - [Fractional Knapsack](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
+- [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
 
 ---
 
@@ -65,14 +64,8 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 - [Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
 - [Job Sequencing Problem 2](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
 
----
 
 
-## 🚰Water / Resource Distribution
-
-- [Distribute Water to Villages](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
-- [Connect N ropes with minimum cost](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
-- [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
 
 ---
 
@@ -91,8 +84,7 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 ## 🔗 References
 
 - [GFG – Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/)
-- [Leetcode – Greedy Tag](https://leetcode.com/tag/greedy/)
-- [MIT OpenCourseWare – Greedy Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-greedy-algorithms/)
+- [Leetcode – Greedy ](https://leetcode.com/tag/greedy/)
 
 ---
 
