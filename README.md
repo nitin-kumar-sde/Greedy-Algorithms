@@ -18,13 +18,12 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 
 ---
 
-## 📘Tutorial
+# 📘Tutorial
 [Greedy - GFG](https://www.geeksforgeeks.org/greedy-algorithms/)
-
 
 ---
 
-## 🤑Basic Greedy Problems
+# 🤑Basic Greedy Problems
 - [Minimum Absolute difference](https://leetcode.com/problems/minimum-absolute-difference)
 - [Smallest Subset](https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements)
 - [Connect N ropes with minimum cost](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
@@ -34,7 +33,7 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 
 ---
 
-## 🪙Standard Greedy Problems
+# 🪙Standard Greedy Problems
 - [Jump Game](https://leetcode.com/problems/jump-game)
 - [Jump Game 2](https://leetcode.com/problems/jump-game-ii)
 - [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis-string)
@@ -42,40 +41,37 @@ Problems are organized pattern-wise and cover the major greedy use-cases often a
 - [Candy](https://leetcode.com/problems/candy)
 
 
-## 💰Activity Selection Variants
+# 💰Activity Selection Variants
 
 - [Activity Selection Problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
 - [N meetings in a room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals)
-- [Insert Interval](https://leetcode.com/problems/insert-interval)
+- [Movie Festival II](https://cses.fi/problemset/task/1632)
 
 ---
 
-## 🎒Knapsack Variants
+# 🎒Knapsack Variants
 
 - [Fractional Knapsack](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
 - [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
 
 ---
 
-## 📦Job Sequencing with Deadlines Variants
+# 📦Job Sequencing with Deadlines Variants
 
 - [Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
 - [Job Sequencing Problem 2](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
-
-
-
+- [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
 
 ---
 
-## 🏃Huffman Encoding & Compression
+# 🏃Huffman Encoding & Compression
 
 - [Huffman Coding ](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 
 ---
 
-## 💬 Contributing
+# 💬 Contributing
 
 ✨ **Want to grow this collection?** Fork it, add your favorite problems, and raise a PR. Let’s build the best greedy resource together!
 
